@@ -2,6 +2,10 @@
 
 A robust Python program to download all contents (messages, photos, videos, documents, audio) from any Telegram channel.
 
+![telegram-logo-scaled-down.png](images/telegram-logo-scaled-down.png)
+
+
+
 ## Features
 
 - **Complete Download**: Downloads all messages, media files, and documents from a channel
